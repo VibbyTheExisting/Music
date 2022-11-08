@@ -476,4 +476,4 @@ async def on_ready():
     setup(client=client)
     print("Ready")
 
-client.run('OTEyMDM1NzU4MjcyMDIwNTEy.YZqFfQ.zkoqTkweyZaQVA4ruk4qdzFQpb0')
+client.run(token)
